@@ -30,20 +30,22 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+### Screenshot 1:
+![Screenshot 1](assets/screenshot1.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+### Screenshot 2:
+![Screenshot 2](assets/screenshot2.png)
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+### Screenshot 3:
+![Screenshot 3](assets/screenshot3.png)
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
 - Solution URL: [ solution URL here](https://github.com/RomeesaKamal/lunch-countdown-timer)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL here](https://romeesakamal.github.io/lunch-countdown-timer/)
 
 ## My process
 
@@ -54,31 +56,14 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
+- JavaScript
 - [Styled Components](https://styled-components.com/) - For styles
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+Through building the lunch countdown timer project, I learned how to create a functional and interactive web application using HTML, CSS, and JavaScript. I gained experience in working with JavaScript’s setInterval function to manage the countdown and update the timer in real-time. Additionally, I improved my skills in designing user-friendly interfaces and integrating dynamic features, such as a countdown timer, into a web project.
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
@@ -92,8 +77,12 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- MDN Web Docs
+- CSS-Tricks
+- Frontend Mentor
+- Google Fonts
+- Gradient Generator
+
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
@@ -101,12 +90,19 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - Website - [Romeesa Kamal](https://github.com/RomeesaKamal)
 - Frontend Mentor - [@Romeesakamal](https://www.frontendmentor.io/profile/yourusername)
-- Linkdin - [@Romeeesakamal](https://www.twitter.com/yourusername)
+- Linkdin - [Romeeesa Kamal](www.linkedin.com/in/romeesa-kamal-7864b8342)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+- Frontend Mentor: For providing inspiration and challenges to improve UI/UX design skills.
+- CSS-Tricks: For helpful guides on advanced CSS techniques.
+- MDN Web Docs: For comprehensive documentation on JavaScript, CSS, and web development.
+- Google Fonts: For providing elegant font options to enhance typography.
+- Stack Overflow: For solutions and community support during development.
+
+
+
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
