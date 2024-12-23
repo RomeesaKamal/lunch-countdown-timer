@@ -1,46 +1,35 @@
-# Frontend Mentor - Launch countdown timer solution
+![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 
-This is a solution to the [Launch countdown timer challenge on Frontend Mentor](https://github.com/RomeesaKamal/lunch-countdown-timer). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# Launch countdown timer 
+The Lunch Countdown Timer is a simple yet practical project that helps users keep track of the time remaining until lunch. Whether you're at work or studying, this timer ensures you never miss your favorite meal break.
+ 
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+## Features
+- **Real-Time Countdown**: Displays the hours, minutes, and seconds left until lunch.
+- **Dynamic Updates**: The countdown updates every second for precise timing.
+- **User-Friendly Interface**: Designed with simplicity in mind, the timer is easy to understand and use.
+
+## Purpose
+- This project demonstrates core JavaScript skills, including working with time and date functions, dynamic DOM updates, and interval management. It serves as a foundation for further development into a fully customizable time management tool.
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- See hover states for all interactive elements on the page
-- See a live countdown timer that ticks down every second (start the count at 14 days)
-- **Bonus**: When a number changes, make the card flip from the middle
-
 ### Screenshot
 
-### Screenshot 1:
-![Screenshot 1](assets/screenshot1.png)
+![Design preview for the Launch countdown timer coding challenge](./design/desktop-preview.jpg)
 
-### Screenshot 2:
-![Screenshot 2](assets/screenshot2.png)
-
-### Screenshot 3:
-![Screenshot 3](assets/screenshot3.png)
-
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -59,7 +48,7 @@ Users should be able to:
 - JavaScript
 - [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 ### What I learned
 
@@ -67,13 +56,17 @@ Through building the lunch countdown timer project, I learned how to create a fu
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+- **Dynamic Lunch Time**: Allow users to set their own lunch time for a more personalized experience.
+- **Notifications**: Implement a notification system (sound or pop-up) when it's lunch time.
+- **Pause/Resume Timer**: Add controls to pause, resume, or reset the countdown timer.
+- **Theming Options**: Enable customizable themes to enhance the user interface.
+- **Accessibility Enhancements**: Improve accessibility for users with visual or auditory impairments.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+
 
 ### Useful resources
 
@@ -83,26 +76,36 @@ Use this section to outline areas that you want to continue focusing on in futur
 - Google Fonts
 - Gradient Generator
 
+## 🌎 Live Demo:
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Live Demo Link](https://romeesakamal.github.io/lunch-countdown-timer/)
 
 ## Author
+
+### 👤 **Romeesa Kamal**
 
 - Website - [Romeesa Kamal](https://github.com/RomeesaKamal)
 - Frontend Mentor - [@Romeesakamal](https://www.frontendmentor.io/profile/yourusername)
 - Linkdin - [Romeeesa Kamal](www.linkedin.com/in/romeesa-kamal-7864b8342)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page.
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Frontend Mentor: For providing inspiration and challenges to improve UI/UX design skills.
-- CSS-Tricks: For helpful guides on advanced CSS techniques.
-- MDN Web Docs: For comprehensive documentation on JavaScript, CSS, and web development.
-- Google Fonts: For providing elegant font options to enhance typography.
-- Stack Overflow: For solutions and community support during development.
+- Thanks to the Mujeeb ur Rehman for the great curriculum.
+- Thanks to the Code Reviewer(s) for the insightful feedback.
 
+## 📝 License
 
+This project is MIT licensed.
 
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
