@@ -64,8 +64,8 @@ body {
 
 .box {
   display: flex;
-  background: linear-gradient(hsl(237, 20%, 20%) 50%,
-  hsl(237, 19%, 22%) 50%);
+  background: linear-gradient(hsl(240, 16%, 17%) 50%,
+  hsl(234, 18%, 22%) 50%);
   width: 80px;
   height: 80px;
   justify-content: center;
