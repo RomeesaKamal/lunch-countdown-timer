@@ -1,20 +1,31 @@
 ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 
+![Design preview for the Launch countdown timer coding challenge](./design/desktop-preview.jpg)
+
 # Launch countdown timer 
 The Lunch Countdown Timer is a simple yet practical project that helps users keep track of the time remaining until lunch. Whether you're at work or studying, this timer ensures you never miss your favorite meal break.
  
 
 ## Table of contents
 
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Set up](#setup)
+- [Usage](#usage)
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Live Demo](#-live-demo)
 - [Author](#author)
+- [Contributing](#-contributing)
+- [Show your support](#show-your-support)
 - [Acknowledgments](#acknowledgments)
+- [License](#-license)
+
 
 ## Features
 - **Real-Time Countdown**: Displays the hours, minutes, and seconds left until lunch.
@@ -25,11 +36,6 @@ The Lunch Countdown Timer is a simple yet practical project that helps users kee
 - This project demonstrates core JavaScript skills, including working with time and date functions, dynamic DOM updates, and interval management. It serves as a foundation for further development into a fully customizable time management tool.
 
 ## Overview
-
-### Screenshot
-
-![Design preview for the Launch countdown timer coding challenge](./design/desktop-preview.jpg)
-
 
 ### Links
 
@@ -49,7 +55,6 @@ The Lunch Countdown Timer is a simple yet practical project that helps users kee
 - [Styled Components](https://styled-components.com/) - For styles
 
 
-
 ### What I learned
 
 Through building the lunch countdown timer project, I learned how to create a functional and interactive web application using HTML, CSS, and JavaScript. I gained experience in working with JavaScript’s setInterval function to manage the countdown and update the timer in real-time. Additionally, I improved my skills in designing user-friendly interfaces and integrating dynamic features, such as a countdown timer, into a web project.
@@ -61,11 +66,14 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 ### Continued development
 
 - **Dynamic Lunch Time**: Allow users to set their own lunch time for a more personalized experience.
-- **Notifications**: Implement a notification system (sound or pop-up) when it's lunch time.
-- **Pause/Resume Timer**: Add controls to pause, resume, or reset the countdown timer.
-- **Theming Options**: Enable customizable themes to enhance the user interface.
-- **Accessibility Enhancements**: Improve accessibility for users with visual or auditory impairments.
 
+- **Notifications**: Implement a notification system (sound or pop-up) when it's lunch time.
+
+- **Pause/Resume Timer**: Add controls to pause, resume, or reset the countdown timer.
+
+- **Theming Options**: Enable customizable themes to enhance the user interface.
+
+- **Accessibility Enhancements**: Improve accessibility for users with visual or auditory impairments.
 
 
 ### Useful resources
@@ -100,7 +108,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Thanks to the Mujeeb ur Rehman for the great curriculum.
+- Thanks to the [Mujeeb ur Rehman](https://github.com/Mujeeb4582/) for the great curriculum.
 - Thanks to the Code Reviewer(s) for the insightful feedback.
 
 ## 📝 License
